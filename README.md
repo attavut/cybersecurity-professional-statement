@@ -1,9 +1,5 @@
 # cybersecurity-professional-statement
 
-This is my professional statement for the course Foundations of Cybersecurity on GitHub.
+This is my professional statement for the course Foundations of Cybersecurity.
 
-Step 1: My strengths that currently have or are committed to developing...
-
-Step 2: My values have...
-
-Step 3:
+In my role as a cybersecurity professional, I'm focused on improving my written and verbal communication skills, as well as enhancing my proficiency in programming. My main goal is to protect organizations and individuals from cyber threats while advocating for fair access to secure technology.
